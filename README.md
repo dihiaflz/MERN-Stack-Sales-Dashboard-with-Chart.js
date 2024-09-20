@@ -16,3 +16,5 @@ A line chart showing monthly sales fluctuations.
 6. Run the code using the command **npm start** in both folders and everything will work properly 
  
 GOOD LUCK !
+
+# The code is on the master branch
