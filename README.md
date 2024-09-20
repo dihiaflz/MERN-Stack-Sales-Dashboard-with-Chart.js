@@ -4,7 +4,9 @@ This data visualization application is built with the MERN stack (MongoDB, Expre
 The dashboard includes:
 
 A bar chart displaying sales distribution by category.
+
 A pie chart illustrating annual sales trends.
+
 A line chart showing monthly sales fluctuations.
 
 # HOW TO USE :
