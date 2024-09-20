@@ -1,0 +1,31 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  gap: 5vh;
+  align-items: center;
+  padding-bottom: 10vh;
+  text-align: center;
+}
+
+.App h3 {
+  padding-bottom: 5vh;
+}
+
+.chart-container {
+  width: 70vw;  
+  height: 40vw; 
+  margin: 20px auto;
+  padding-bottom: 10vh;
+}
+
+@media (min-width: 300px) and (max-width: 500px) {
+
+  .App h1 {
+    padding: 0 4vw;
+  }
+
+  .chart-container {
+    width: 90vw; 
+    height: 70vw;
+  }
+}
